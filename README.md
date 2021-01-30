@@ -1,4 +1,4 @@
-# Self-Balancing-Search-Trees
+# Self-Balancing Search Trees
 
 ### Red-Black
 
